@@ -1,2 +1,3 @@
-# flex-monitoring-tool-w4sa
+# Flex Monitoring Tool W4Sa
+
 A repository to test GitHub automation for issue management.
